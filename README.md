@@ -7,7 +7,7 @@ Intallation until there's a better approach:
 ```
 install.packages("devtools")
 library(devtools)
-install_github(“jjvanderwal/climates”)
+install_github("jjvanderwal/climates")
 ```
 
 Or checkout and clone the github repository open the RStudio project and build and reload the package. Once built, running the package tests throug RStudio's build tools is reccomended to ensure everything is working as expected.
